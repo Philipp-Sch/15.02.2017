@@ -8,5 +8,9 @@ namespace _15._02._2017
 {
     class Calculations
     {
+        public int Calculate(int parameterA, int parameterB)
+        {
+            return parameterA + parameterB;
+        }
     }
 }
