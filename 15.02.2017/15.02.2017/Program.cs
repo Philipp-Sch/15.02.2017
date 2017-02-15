@@ -11,11 +11,8 @@ namespace _15._02._2017
         static void Main(string[] args)
         {
             Calculations cal = new Calculations();
-            Console.Write(cal.Calculate(Convert.ToDouble(Console.ReadLine()), Convert.ToDouble(Console.ReadLine())));
+            Console.Write(cal.Calculate(GetDouble.GetDoublMethod(), GetDouble.GetDoublMethod()));
             Console.ReadKey();
-            ///GGjdngjndfgms
-            ///drgsdfghdfg
-            ///dfghdfghdfghdfgh
         }
     }
 }
