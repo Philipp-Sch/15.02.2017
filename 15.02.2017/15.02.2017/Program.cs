@@ -10,6 +10,7 @@ namespace _15._02._2017
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }
