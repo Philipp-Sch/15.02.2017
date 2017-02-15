@@ -10,7 +10,8 @@ namespace _15._02._2017
     {
         public int Calculate(int parameterA, int parameterB)
         {
-            return parameterA + parameterB;
+            return parameterA - parameterB;
         }
+
     }
 }
