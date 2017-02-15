@@ -15,7 +15,6 @@ namespace _15._02._2017
             Console.ReadKey();
             ///GGjdngjndfgms
             ///drgsdfghdfg
-            ///BlaBlaBla...ich kann nicht Programmieren
         }
     }
 }
